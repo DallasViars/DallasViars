@@ -95,7 +95,8 @@ In another life I cut meat for nearly a decade and a half before drastically cha
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dallasviars&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
           
   </table>
-    ## My Primary Repos:
+
+## My Primary Repos:
 
   - [Scrimba Projects](/../../../../DallasViars/Scrimba_Projects)
     - This is a collection of projects I made that originated from [Scrimba's platform](http://www.scrimba.com). Scrimba is an amazing learning platform for HTML, CSS, Javascript, React, and more. Its lessons are similar to others where you listen and watch someone code, BUT you can pause the video and edit the code inside and see immediate results. It's incredibly useful to see the cause and effect relationship of frontend development.
