@@ -6,7 +6,7 @@ In another life I cut meat for nearly a decade and a half before drastically cha
 <div align="center"><p>Here are some links to, well, me:</p></div>
 <div align="center">
   
-  [<img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail Badge"/>](dallasviars@gmail.com)  | [<img src="https://img.shields.io/badge/Twitter-pink?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>](https://twitter.com/DallasViars) | [<img src="https://img.shields.io/badge/Codepen.io-black?style=for-the-badge&logo=codepen&logoColor=white" alt="Codepen Badge"/>](https://codepen.io/dallasviars)
+  [<img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail Badge"/>](dallasviars@gmail.com)  | [<img src="https://img.shields.io/badge/Twitter-dodgerblue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>](https://twitter.com/DallasViars) | [<img src="https://img.shields.io/badge/Codepen.io-black?style=for-the-badge&logo=codepen&logoColor=white" alt="Codepen Badge"/>](https://codepen.io/dallasviars)
   :---:  | :---:  | :---: 
   [dallasviars@gmail.com](mailto:dallasviars@gmail.com)  | [https://twitter.com/DallasViars](https://twitter.com/DallasViars)  | [https://codepen.io/dallasviars](https://codepen.io/dallasviars)
 </div>
