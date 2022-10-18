@@ -43,7 +43,7 @@ In another life I cut meat for nearly a decade and a half before drastically cha
 - [Scrimba Projects](/../../../../DallasViars/Scrimba_Projects)
   - This is a collection of projects I made that originated from [Scrimba's platform](http://www.scrimba.com). Scrimba is an amazing learning platform for HTML, CSS, Javascript, React, and more. Its lessons are similar to others where you listen and watch someone code, BUT you can pause the video and edit the code inside and see immediate results. It's incredibly useful to see the cause and effect relationship of frontend development.
 - [Practice Exercises](/../../../../DallasViars/Practice_Exercises)
-  - This is a collection of code I've written that didn't quite feel up to project status, but I am happy with. This include the Intermediate Algorithm Scripting challenges found on [FreeCodeCamp.org](https://www.freecodecamp.org/).
+  - This is a collection of code I've written that didn't quite feel up to project status, but I am happy with. This includes the Intermediate Algorithm Scripting challenges found on [FreeCodeCamp.org](https://www.freecodecamp.org/).
 - [Python Exercises](/../../../../DallasViars/Practice_Exercises)
   - This is code I wrote for the CS50 Introduction to Python class I started. I paused learning Python in order to focus on greater proficiency in HTML, CSS, and Javascript. I really enjoyed learning what I did about Python and I am excited to eventually resume learning more.
 
