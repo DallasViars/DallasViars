@@ -43,7 +43,7 @@ In another life I cut meat for nearly a decade and a half before drastically cha
 
 ## My Primary Repos:
 
-  - [Scrimba Projects](/../../../../DallasViars/Scrimba_Projects)
+  - [Scrimba Projects](/../../../../DallasViars/New_Scrimba_Projects)
     - This is a collection of projects I made that originated from [Scrimba's platform](http://www.scrimba.com). Scrimba is an amazing learning platform for HTML, CSS, Javascript, React, and more. Its lessons are similar to others where you listen and watch someone code, BUT you can pause the video and edit the code inside and see immediate results. It's incredibly useful to see the cause and effect relationship of frontend development.
   - [Practice Exercises](/../../../../DallasViars/Practice_Exercises)
     - This is a collection of code I've written that didn't quite feel up to project status, but I am happy with. This includes the Intermediate Algorithm Scripting challenges found on [FreeCodeCamp.org](https://www.freecodecamp.org/).
@@ -62,8 +62,8 @@ In another life I cut meat for nearly a decade and a half before drastically cha
   <div align="center"><p>Here are some links to, well, me:</p></div>
   <div align="center">
 
-[<img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail Badge"/>](dallasviars@gmail.com)  | [<img src="https://img.shields.io/badge/Twitter-dodgerblue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>](https://twitter.com/DallasViars) | [<img src="https://img.shields.io/badge/Codepen.io-black?style=for-the-badge&logo=codepen&logoColor=white" alt="Codepen Badge"/>](https://codepen.io/dallasviars)
-:---:  | :---:  | :---: 
+[<img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail Badge"/>](dallasviars@gmail.com)  |  [<img src="https://img.shields.io/badge/Codepen.io-black?style=for-the-badge&logo=codepen&logoColor=white" alt="Codepen Badge"/>](https://codepen.io/dallasviars)
+:---:  |  :---: 
 [dallasviars@gmail.com](mailto:dallasviars@gmail.com)  | [https://twitter.com/DallasViars](https://twitter.com/DallasViars)  | [https://codepen.io/dallasviars](https://codepen.io/dallasviars)
 
   </div>
@@ -96,7 +96,7 @@ In another life I cut meat for nearly a decade and a half before drastically cha
 
   ## My Primary Repos:
 
-  - [Scrimba Projects](/../../../../DallasViars/Scrimba_Projects)
+  - [Scrimba Projects](/../../../../DallasViars/New_Scrimba_Projects)
     - This is a collection of projects I made that originated from [Scrimba's platform](http://www.scrimba.com). Scrimba is an amazing learning platform for HTML, CSS, Javascript, React, and more. Its lessons are similar to others where you listen and watch someone code, BUT you can pause the video and edit the code inside and see immediate results. It's incredibly useful to see the cause and effect relationship of frontend development.
   - [Practice Exercises](/../../../../DallasViars/Practice_Exercises)
     - This is a collection of code I've written that didn't quite feel up to project status, but I am happy with. This includes the Intermediate Algorithm Scripting challenges found on [FreeCodeCamp.org](https://www.freecodecamp.org/).
